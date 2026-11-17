@@ -1,0 +1,6 @@
+{
+  "name": "Executive E-Commerce Sales & Profitability Analytics",
+  "description": "Sales and profitability data analysis platform using Python and Pandas with an interactive 3-page dashboard: Executive Summary, Profitability Lab, and What-If Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
